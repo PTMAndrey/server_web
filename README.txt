@@ -1,5 +1,6 @@
 
-						*************************** Proiect Reţele de Calculatoare ***************************
+			
+			*************************** Proiect Reţele de Calculatoare ***************************
 			
 			******* Server web HTTP *******
 
